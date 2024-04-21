@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+  body {
+    text-align: center;
+    font-family: 'Cinzel', 'Times New Roman', sans-serif;
+    font-size: 64px;
+    background-image: url(https://i.ibb.co/x7SnvsH/background-image.png);
+    background-repeat: no-repeat;
+ 
+}
+  h1{
+font-weight: 615;
+
+}
+  p{
+    font-family: 'Inter', 'Times New Roman', sans-serif; ; 
+    font-size: 20px;
+    align-items: center;
+}
+
+  span{
+    color: #DB2777;
+}
+  .botao{
+    font-family: 'Inter', 'Times New Roman', sans-serif;
+    font-size: 20px;
+    border: solid 1px #DB2777;
+    border-radius: 138px;
+    
+    font-weight: bold;
+
+    color:#ffffff;
+    background-color:#DB2777
+}
+  .botao:hover{
+    border: solid 1px #7a1b46;
+    background-color: #7a1b46;
+    color: white;
+ 
+}
+  .bota{
+    font-size: 20px;
+  
+    font-weight: bold;
+    color:#ffffff;
+
+}
+  .a,a {
+    font-size: 20px  ;
+    font-weight: bold;
+    color:#151718;
+    width: 16px 32px;
+    font-weight: 400;
+   
+   
+   justify-content: center;
+   padding: 72px 134px;
+
+}
